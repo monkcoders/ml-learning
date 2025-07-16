@@ -1,0 +1,4 @@
+copy list shared reference, shallow copy and deepcopy: https://www.dataquest.io/blog/python-copy-list/
+
+
+
